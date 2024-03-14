@@ -1,7 +1,7 @@
 Feature: Rent a Car
 
 Scenario: Success Rent a Car
-    Given user go to traveloka website
+    Given user go to website
     When user select car product
      And user select tab Without Driver
      And select "Jakarta" as the Pick-up Location

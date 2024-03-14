@@ -7,7 +7,7 @@ import { when } from 'cypress/types/jquery'
 import PaymentPage from '../Pages/PaymentPage'
 
 Given('user go to traveloka website', () =>{
-    cy.visit('https://www.traveloka.com/en-id')
+    cy.visit('')
 })
 
 When('user select car product', () => {
